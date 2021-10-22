@@ -1,0 +1,22 @@
+{
+  "name": "challenge",
+  "version": "1.0.0",
+  "description": "autoamtion challenge for bitso",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ErickReyesM/BistoChallenge.git"
+  },
+  "author": "Erick Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ErickReyesM/BistoChallenge/issues"
+  },
+  "homepage": "https://github.com/ErickReyesM/BistoChallenge#readme",
+  "devDependencies": {
+    "cypress": "^8.6.0"
+  }
+}

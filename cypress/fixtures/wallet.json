@@ -1,0 +1,8 @@
+{
+    "buttons": [1,3,6,7,10,14],
+    "buttonClass": ".Container__StyledContainer-sc-1nmtyg4-0.BcfYm.styles__StyledContainer-go4zwh-7.cUlkaT",
+    "depositButton": ":nth-child(1) > .styles__IconContainer-sc-23vrf8-1",
+    "btcFunding": ":nth-child(1) > [data-testid=picker-item]",
+    "errorModal": ".styles__WrapperContainer-sc-1yl4qxp-5",
+    "closeModalButton": "[data-testid=modal-close]"
+}

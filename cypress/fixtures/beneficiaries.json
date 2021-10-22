@@ -1,0 +1,10 @@
+{
+    "firstName": "#first_name",
+    "lastName": "#last_name",
+    "percentage": "#percentage",
+    "addButton": "[data-testid=add-beneficiary-button]",
+    "kinshipDisplay": ".gLhA-DK > .css-m0do4z > .css-16ljna5",
+    "dayInput": "#day",
+    "monthInput": "#month",
+    "yearInput": "#year"
+}

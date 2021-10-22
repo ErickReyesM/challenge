@@ -1,0 +1,5 @@
+{
+    "emailOrID": "#client_id",
+    "passwordInput": "#password",
+    "loginButton": "form > :nth-child(3) > .styles__StyledButton-sc-1mfj3x4-0"
+}
